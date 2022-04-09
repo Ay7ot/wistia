@@ -1,0 +1,7 @@
+* {
+    all: 0;
+}
+
+b header {
+    background-image: linear-gradient(to right, red, yellow)
+}
